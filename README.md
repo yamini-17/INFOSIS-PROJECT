@@ -93,7 +93,7 @@ This page provides a high-level executive overview of business performance.
 
 ## Regional Sales & Profitability
 
-![Regional Sales & Profitability](PASTE_REGIONAL_IMAGE_LINK_HERE)
+![Regional Sales & Profitability](https://github.com/yamini-17/INFOSIS-PROJECT/blob/main/Screenshot%202026-02-15%20122025.png?raw=true)
 
 ### Key Highlights
 - Sales & Profit by Country (Map)  
@@ -108,7 +108,7 @@ This page focuses on geographic performance and cost structure evaluation.
 
 ## Discount & Profitability Insights
 
-![Discount & Profitability Insights](PASTE_DISCOUNT_IMAGE_LINK_HERE)
+![Discount & Profitability Insights](https://github.com/yamini-17/INFOSIS-PROJECT/blob/main/Screenshot%202026-02-15%20122036.png?raw=true)
 
 ### Key Highlights
 - Discount vs Profit by Product  
@@ -144,4 +144,3 @@ This page analyzes how discount strategy affects overall profitability.
 1. Download the `.pbix` file  
 2. Open in Power BI Desktop  
 3. Use slicers to filter by Country, Segment, Product, and Date  
-4. Explore drill-through pages for detailed analysis  
