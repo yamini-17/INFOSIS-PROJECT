@@ -76,7 +76,7 @@ This dashboard solves these challenges through interactive KPI tracking and filt
 
 ## Sales Performance Overview
 
-  ![Sales Performance Overview](https://github.com/yamini-17/INFOSIS-PROJECT/commit/e804b7a6f904a3115cbd0aa32a09fad7449c15d4)
+  ![Sales Performance Overview](https://github.com/yamini-17/INFOSIS-PROJECT/blob/main/Screenshot%202026-02-15%20122012.png?raw=true)
 
 ### Key Highlights
 - Total Sales: 118.73M  
